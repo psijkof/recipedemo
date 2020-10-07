@@ -54,14 +54,13 @@
         "OrchardCore.Widgets",
 
         // Themes
-        "TheAdmin",
-        "recipebase"
+        "TheAdmin"
       ]
     },
     {
       "name": "themes",
       "admin": "TheAdmin",
-      "site": "recipebase"
+      "site": ""
     },
     {
       "name": "Content",
